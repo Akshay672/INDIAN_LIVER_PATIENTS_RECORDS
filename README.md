@@ -27,3 +27,6 @@ The data set was collected from north east of Andhra Pradesh, India. Selector is
 • A/G Ratio Albumin and Globulin Ratio 
 
 • Selector field used to split the data into two sets (labeled by the experts): Selector is a class label used to divide into groups(liver patient or not).
+
+
+DATASET URL: <a href="https://www.kaggle.com/uciml/indian-liver-patient-records">LINK</a>
